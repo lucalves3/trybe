@@ -1,0 +1,65 @@
+.header {
+    background-color: darkkhaki;
+    
+    
+}
+
+#italico {
+    font-style: italic;  
+}
+
+html {
+    background-color: white;
+}
+
+.links-lucas {
+    
+}
+
+.aside {
+    
+}
+
+.aside2 {
+    background-color:white;
+    margin: 30px;
+    width: auto;
+    float: left;
+    text-align: center;
+    display: block;
+    height: auto;
+    transition: all 1s;
+    text-align: center;
+    border-radius: 30px;
+    padding: 10px;
+    transition: background .6s ease-in, transform .5s .25s ease-in-out;
+}
+
+.aside2:hover {
+    background-color: red;
+    color: white;
+    transform: scale(1.1);
+}
+
+.artigo {
+    background-color: cyan;
+    border-radius: 30px;
+    text-align: center;
+}
+
+
+/* abaixo somente configuração de imagens */
+
+#olho {
+    float: right;
+    border-radius: 30%;
+    padding: 10px;
+    width: 30%
+}
+
+#mantis {
+    float: left;
+    border-radius: 30%;
+    width: 40%;
+    padding: 10px;
+}
