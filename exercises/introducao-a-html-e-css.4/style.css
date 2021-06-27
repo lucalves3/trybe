@@ -12,14 +12,6 @@ html {
     background-color: white;
 }
 
-.links-lucas {
-    
-}
-
-.aside {
-    
-}
-
 .aside2 {
     background-color:white;
     margin: 30px;
@@ -36,7 +28,7 @@ html {
 }
 
 .aside2:hover {
-    background-color: red;
+    background-color: rgb(46, 46, 46);
     color: white;
     transform: scale(1.1);
 }
