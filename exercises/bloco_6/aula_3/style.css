@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.flex-nav {
+    background-color: #5995da;
+    color: white;
+    padding: 20px 0;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.links {
+    display: flex;
+}
+
+.login {
+    margin-left: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #d6e9fe;
+    height: 300px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.div1 {
+    border: 1px solid;
+    background-color: turquoise;
+    width: 150px;
+    height: 150px;
+}
+
+.section {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
